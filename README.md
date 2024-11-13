@@ -1,5 +1,5 @@
 <!DOCTYPE>
-<header>
+<header　color=:#000052;>
   <h1>おはようございます</h1>
 </header>
 <main>
